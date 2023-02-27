@@ -37,5 +37,5 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
    - [HackerOne](https://www.hackerone.com/)
    - [Bugcrowd](https://www.bugcrowd.com/)
    - [Intigriti](https://www.intigriti.com/)
+   - [HackenProof](https://hackenproof.com/)
    - [Patchstack](https://patchstack.com/alliance/)
-   - [HackerProof](https://hackenproof.com/)
