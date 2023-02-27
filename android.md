@@ -1,0 +1,16 @@
+ * [The Mobile Hacking CheatSheet](https://github.com/randorisec/MobileHackingCheatSheet)
+ * [Android-Reports-and-Resources](https://github.com/B3nac/Android-Reports-and-Resources)
+ * [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
+ * [Oversecured Blog](https://blog.oversecured.com/)
+ 
+ ## HackerOne Android (Blog)
+ * [](https://www.hackerone.com/resources/hackerone/hacker-spotlight-interview-with-bagipro)
+ * [](https://www.hackerone.com/resources/hackerone/androidhackingmonth-q-a-with-android-hacker-bagipro)
+ * [](https://www.hackerone.com/resources/hackerone/androidhackingmonth-introduction-to-android-hacking-by-0xteknogeek)
+ * [](https://www.hackerone.com/resources/hackerone/guess-whats-coming-androidhackingmonth-on-hacker0x01)
+ * [](https://www.hackerone.com/resources/hackerone/google-play-increases-bounties-and-expands-scope-for-android-apps)
+ * [](https://www.hackerone.com/resources/hackerone/google-wants-you-to-hack-their-top-android-apps)
+ * [](https://www.hackerone.com/resources/hackerone/androidhackingmonth-q-a-with-android-hacker-bagipro-2)
+ * [](https://www.hackerone.com/resources/hackerone/androidhackingmonth-introduction-to-android-hacking-by-0xteknogeek-2)
+ * [](https://www.hackerone.com/resources/hackerone/guess-whats-coming-androidhackingmonth-on-hacker0x01-2)
+ 
