@@ -9,11 +9,15 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
  * [Snyk Vulnerability DB](https://security.snyk.io/)
  * [ExploitDB](https://www.exploit-db.com/)
  * [HackerOne Hacktivity](https://hackerone.com/hacktivity)
+ * [Google Bug Hunter Reports](https://bughunters.google.com/report/reports)
  
 ## Online Tools
  * [CyberChef](https://gchq.github.io/CyberChef)
  * [grep.app](grep.app)
  * [js-beautify](https://beautifier.io/)
+
+## Tools
+ * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 
 ## Android Tools
  * [apktool](https://github.com/iBotPeaches/Apktool)
@@ -27,6 +31,7 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
 
 ## Other Resources
  * [InfoSecWriteups](https://infosecwriteups.com/)
+ * [Google Bug Hunter University](https://bughunters.google.com/learn)
  * [Bug Bounty Resources](https://www.hacker101.com/resources)
  * [Bug Bounty Platforms](https://github.com/disclose/bug-bounty-platforms)
    - [HackerOne](https://www.hackerone.com/)
