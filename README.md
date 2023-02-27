@@ -9,6 +9,7 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
  * [Snyk Vulnerability DB](https://security.snyk.io/)
  * [ExploitDB](https://www.exploit-db.com/)
  * [HackerOne Hacktivity](https://hackerone.com/hacktivity)
+ * [Bugcrowd CrowdStream](https://bugcrowd.com/crowdstream)
  * [Google Bug Hunter Reports](https://bughunters.google.com/report/reports)
  
 ## Online Tools
@@ -31,6 +32,7 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
 
 ## Other Resources
  * [InfoSecWriteups](https://infosecwriteups.com/)
+ * [Intigriti Blog](https://blog.intigriti.com/) - Especially "[Bug Bytes](https://blog.intigriti.com/category/bugbytes/)"
  * [Google Bug Hunter University](https://bughunters.google.com/learn)
  * [Bug Bounty Resources](https://www.hacker101.com/resources)
  * [Bug Bounty Platforms](https://github.com/disclose/bug-bounty-platforms)
