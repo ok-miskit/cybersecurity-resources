@@ -19,6 +19,7 @@ Inspired by [https://github.com/Crypto-Cat/CTF](https://github.com/Crypto-Cat/CT
 
 ## Tools
  * [mitmproxy](https://github.com/mitmproxy/mitmproxy)
+ * [Ghidra](https://ghidra-sre.org/) - [Cheat Sheet](https://htmlpreview.github.io/?https://github.com/NationalSecurityAgency/ghidra/blob/stable/GhidraDocs/CheatSheet.html)
 
 ## Android Tools
  * [apktool](https://github.com/iBotPeaches/Apktool)
